@@ -1,0 +1,13 @@
+Package: com.pip.pipmecong
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: PipMecong <objectivestat9@gmail.com>
+Filename: /PipMecong.deb
+Size: 1688
+MD5sum: a5fbeff56d0497c836cbc1022af58145
+SHA1: 93b02c405234dc0376fbfc441383d5ff87f9acf1
+SHA256: 5415aa90fa1bd10b985e3ea8957cb177e96fafd5Fdb3d86fdd24fa3d0b82a1b7
+Section: Tweaks
+Description: Pip Mecong's first tweak, in Beta.
+Author: Pip_Mecong <objectivestat9@gmail.com>
+Name: PipMecongDex
